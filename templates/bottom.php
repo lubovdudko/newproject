@@ -13,7 +13,8 @@
 		}
 	else{
 ?>
-<p><a href="login.php">Войти</a><br><a href="reg.php">Регистрация</a></p>
+<p><a href="login.php">Войти</a><a href="reg.php">Регистрация</a></p>
+
 <?php
 		}
 ?>
@@ -21,7 +22,11 @@
 				</div>
 			</div>
 		</div>
-		<div class="button"><button>Анютины глазки</button><button>Цветы</button></div>
+		<div class="button"><button>Анютины глазки</button><button>Цветы</button>
+		
+		
+		
+		</div>
 		<div id="footer">
 		
 		</div>

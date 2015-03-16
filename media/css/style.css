@@ -148,7 +148,14 @@ margin-top:20px;
 	color:#81543a;
 	font-family:century gothic;
 }
-
+.right a{
+	text-align:center;
+	background:linear-gradient(#a1ae8b,#909f75)#909f75;
+	color:white;
+	font-family:century gothic;
+	margin-top:5px;
+	
+}
 .login{
 margin-left:6px;
 float:center;
@@ -178,7 +185,19 @@ float:center;
 	background-color:rgba(255,255,255,0.7);
 	border:2px solid #909f75;
 }
-
+#search{
+	font-family:century gothic;
+	background:linear-gradient(#eac6c2,#d1968f)#d1968f;
+	color:#white;
+	text-decoration:none;
+	padding:10px 0;
+	text-align:center;
+	border-radius:6px;
+	border-width:2px;
+    border-style:solid;
+    border-color:#eac6c2;
+	transition:0.2s;
+}
 #footer {
 		background: url(../img/bg1.png) no-repeat center;
 		background-size: cover;

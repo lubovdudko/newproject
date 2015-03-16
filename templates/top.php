@@ -111,6 +111,7 @@ $(window).bind("load", function() {
 						<a href="#" class="btn btn-default">Наборы</a>
 						<a href="#" class="btn btn-default">Другое</a>
 					</div></div>
+				<a id='search' href="search.php">Поиск по товарам</a>
 				</div>
 			</div>
 			<div class="col-md-8">
